@@ -10,9 +10,9 @@ Follow the given steps to publish module to github package
 3. clone the repo and run npm init
 
 4. $ npm login --registry=https://npm.pkg.github.com
-> Username: USERNAME
-> Password: TOKEN
-> Email: PUBLIC-EMAIL-ADDRESS
+ Username: USERNAME
+ Password: TOKEN
+ Email: PUBLIC-EMAIL-ADDRESS
 
 
 5. add publishConfig entry in package.json
