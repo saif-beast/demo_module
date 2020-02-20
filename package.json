@@ -1,0 +1,14 @@
+{
+  "name": "demo_module",
+  "version": "1.0.0",
+  "description": "Template project to be used as reference for publishing package to github",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/saif-beast"
+  },
+  "author": "saifullah khan",
+  "license": "ISC"
+}
