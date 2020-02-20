@@ -1,6 +1,6 @@
 {
   "name": "demo_module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Template project to be used as reference for publishing package to github",
   "main": "index.js",
   "scripts": {
