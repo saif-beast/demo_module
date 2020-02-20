@@ -7,7 +7,7 @@
     "test": "test"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/saif-beast"
+    "registry": "https://npm.pkg.github.com/@saif-beast"
   },
   "author": "saifullah khan",
   "license": "ISC"
